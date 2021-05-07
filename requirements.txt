@@ -17,3 +17,4 @@ numpy==1.20.1
 scipy==1.6.3
 seaborn==0.11.1
 missingno
+xgboost==1.4.1

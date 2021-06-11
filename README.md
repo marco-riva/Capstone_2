@@ -1,7 +1,7 @@
 Capstone 2
 ==============================
 
-This is my second capstone project for the Springboard data science bootcamp.  
+This is my second capstone project for the Springboard data science bootcamp. The final version of the model is available in the 'release' branch.   
 
 Project Organization
 ------------
